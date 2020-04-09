@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-container{
+  margin: 110px auto 0 auto;
+  max-width: 1000px;
+  /* color: #B16765; */
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.ui.search>.ui.input.icon {
+  width: 400px;
+}
+
+.ui.search>.results {
+  display: none !important;
+}
+
+.ui.embed {
+  padding-bottom: 46.25%;
+}
+
+.ui.modal>.content>.description{
+  padding-top: 20px;
+}
+
+.ui.image {
+  float: left;
+}
+
+.ui.modal>.actions{
+  padding-top: 30px !important;
+  padding-right: 30px !important;
+  background: #ffffff;
+  border-top: none;
+
+}
+
+.results-title{
+  font-size: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.rate-icon{
+  width: 40px;
+  padding-bottom: 100px;
+}
+
+.longer-icon{
+  width: 80px;
+  padding-bottom: 20px;
+}
+
+.modal-pic{
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+
